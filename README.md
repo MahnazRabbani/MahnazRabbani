@@ -1,13 +1,10 @@
+**Hi!** I'm Mana! 
 
-Hi, I'm Mana! a data scientist based in Montreal, Canada. I work with structured and unstructured data, using machine learning to solve problems and build smart systems. 
+I'm a data scientist based in Montreal, Canada. I work with structured and unstructured data, using intelligent tools to build intelligent systems.
 
-📫 **Contact me**: [mana.rabbanii@gmail.com](mailto:mana.rabbanii@gmail.com)
+I hold M.Sc. degrees in Computer Science and Applied Mathematics from Western Ontario University. I have three years of professional experience as a Data Scientist at Behaviour Interactive and four years as a Research Assistant at Western Ontario University.
 
-<p  align="center">
-💼 <a  href="https://www.linkedin.com/in/MahnazRabbani/">LinkedIn</a> | 🔗 <a  href="https://github.com/MahnazRabbani">GitHub</a> | 📄 <a  href="https://example.com">Resume</a>
-</p>
-
-### 🛠 Skills
+I have hands-on skills and a theoretical background in a broad range of areas:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -18,5 +15,9 @@ Hi, I'm Mana! a data scientist based in Montreal, Canada. I work with structured
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahnazRabbani&layout=compact&theme=radical)
 
-### 🎓 Education and 💼 Work Experience
-I hold dual M.Sc. degrees in Computer Science and Applied Mathematics from Western Ontario University and a B.Sc. in Mathematics from K. N. Toosi University of Technology. My professional experience includes working as a Data Scientist at Behaviour Interactive and serving as a Research Assistant at Western Ontario University.
+
+Contact me via: 
+
+[mana.rabbanii@gmail.com](mailto:mana.rabbanii@gmail.com)
+💼 <a  href="https://www.linkedin.com/in/MahnazRabbani/">LinkedIn</a> | 🔗 <a  href="https://github.com/MahnazRabbani">GitHub</a> | 📄 <a  href="https://example.com">Resume</a>
+

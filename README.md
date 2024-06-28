@@ -1,12 +1,5 @@
 
-### Hi there 👋
-
-I am
-<p  align="center">
-<b>☕️ Mana Rabbani | 📊 Data Scientist | 📍 Montreal, Canada</b
-</p>
-
-I work with structured and unstructured data, using machine learning to solve problems and build smart systems. 
+Hi, I'm Mana! I'm a data scientist based in Montreal, Canada. I work with structured and unstructured data, using machine learning to solve problems and build smart systems. 
 
 📫 **Contact me**: [mana.rabbanii@gmail.com](mailto:mana.rabbanii@gmail.com)
 

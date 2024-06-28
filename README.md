@@ -1,8 +1,8 @@
-**Hi!** I'm Mana! 
+## **Hi!** I'm Mana.
 
-I'm a data scientist based in Montreal, Canada. I work with structured and unstructured data, using intelligent tools to build intelligent systems.
+I'm a **data scientist** based in **Montreal, Canada**. I work with structured and unstructured data, using intelligent tools to build intelligent systems.
 
-I hold M.Sc. degrees in Computer Science and Applied Mathematics from Western Ontario University. I have three years of professional experience as a Data Scientist at Behaviour Interactive and four years as a Research Assistant at Western Ontario University.
+I hold **M.Sc. degrees in Computer Science and Applied Mathematics** from Western Ontario University. I have three years of professional experience as a Data Scientist at Behaviour Interactive and four years as a Research Assistant at Western Ontario University.
 
 I have hands-on skills and a theoretical background in a broad range of areas:
 
@@ -13,6 +13,8 @@ I have hands-on skills and a theoretical background in a broad range of areas:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahnazRabbani&layout=compact&theme=radical)
 
 

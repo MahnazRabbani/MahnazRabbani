@@ -19,5 +19,6 @@ I have hands-on skills and a theoretical background in a broad range of areas:
 Contact me via: 
 
 [mana.rabbanii@gmail.com](mailto:mana.rabbanii@gmail.com)
+
 💼 <a  href="https://www.linkedin.com/in/MahnazRabbani/">LinkedIn</a> | 🔗 <a  href="https://github.com/MahnazRabbani">GitHub</a> | 📄 <a  href="https://example.com">Resume</a>
 

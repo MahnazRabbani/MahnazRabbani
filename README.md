@@ -2,7 +2,7 @@
 
 I'm a **data scientist** based in **Montreal, Canada**. I work with structured and unstructured data, using intelligent tools to build intelligent systems.
 
-I hold **M.Sc. degrees in Computer Science and Applied Mathematics** from Western Ontario University. I have three years of professional experience as a Data Scientist at Behaviour Interactive and four years as a Research Assistant at Western Ontario University.
+I hold **M.Sc. degrees in Computer Science and Applied Mathematics** from Western Ontario University. I have three years of professional experience as a Data Scientist at Behaviour Interactive and four years as a Research Assistant at Western Ontario University. I am currently a research professional at the Institute Intelligence and Data (IID) in Quebec City.
 
 I have hands-on skills and a theoretical background in a broad range of areas:
 
